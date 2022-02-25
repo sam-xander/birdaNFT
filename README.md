@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# HI, I'M BIRDA
+Hey, I'm Birda
 
 </div>  
 
