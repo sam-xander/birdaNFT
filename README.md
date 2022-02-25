@@ -6,6 +6,8 @@
   
 ### A Little About Me
   
+  ---
+  
 - 🔭 I’m currently working on the SolSeals NFT Ecosystem.
 - 🌱 I’m currently learning Javascript.
 - 💬 Ask me about the NFT project i'm developing for.
@@ -13,6 +15,8 @@
 
   
 ### Languages That I Know
+  
+  ---
   
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/96/000000/css3.png"/>
