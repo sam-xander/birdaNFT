@@ -4,7 +4,9 @@
 # Hi, i'm birda!
 
   
-### A Little About Me
+  
+  
+## A Little About Me
   
   ---
   
@@ -14,7 +16,8 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/birdaNFT) and [Discord](https://discord.gg/A5sqZSydJ3)
 
   
-### Languages That I Know
+  
+## Languages That I Know
   
   ---
   
