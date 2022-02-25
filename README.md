@@ -14,11 +14,9 @@ I’m currently learning Javascript.
 💬
 Ask me about the NFT project i'm developing for.
 📫
-How to reach me: [Twitter](https://twitter.com/birdaNFT) and [Discord](https://discord.gg/A5sqZSydJ3)
+  How to reach me: <a href="https://twitter.com/birdaNFT">Twitter</a> and <a href="https://discord.gg/A5sqZSydJ3">Discord</a>
 
 ## Languages That I Know
-  
-  ---
   
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/96/000000/css3.png"/>
