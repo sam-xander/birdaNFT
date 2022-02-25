@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://giphy.com/embed/hjzuN3nStvFx6" width="480" height="268">
+<img src="https://giphy.com/gifs/seal-hjzuN3nStvFx6" width="480" height="268">
 # HI, I'M BIRDA
 
 </div>  
