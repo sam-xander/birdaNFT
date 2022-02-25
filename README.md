@@ -11,6 +11,6 @@
 
 <div align="left">
   <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-cascading-style-sheets-language-used-for-describing-the-presentation-of-a-document-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/96/000000/css3.png"/>
   <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
 </div>
