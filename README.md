@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # Hey, I'm Birda
 
@@ -16,7 +16,7 @@
 
 <p>💬 Ask me about the NFT project i'm developing for.</p>
 
-<p>📫 How to reach me: <a href="https://twitter.com/birdaNFT">Twitter</a> and <a href="https://discord.gg/A5sqZSydJ3">Discord</a></p>
+<p>📫 How to reach me: <a href="https://twitter.com/birdaNFT">Twitter</a> and <a href="https://discord.gg/A5sqZSydJ3">Discord</a>.</p>
 
 ### Languages That I Know
   
