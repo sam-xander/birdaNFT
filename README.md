@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hey, I'm Birda <img src="https://img.icons8.com/search">
+# Hey, I'm Birda
 
 </div>  
 
