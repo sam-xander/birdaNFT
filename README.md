@@ -7,17 +7,13 @@
   
 ## A Little About Me  
 
-## 🔭
-<p>I’m currently working on the SolSeals NFT Ecosystem.</p>
+<p>🔭 I’m currently working on the SolSeals NFT Ecosystem.</p>
 
-## 🌱
-<p>I’m currently learning Javascript.</p>
+<p>🌱 I’m currently learning Javascript.</p>
 
-## 💬
-<p>Ask me about the NFT project i'm developing for.</p>
+<p>💬 Ask me about the NFT project i'm developing for.</p>
 
-## 📫
-<p>How to reach me: <a href="https://twitter.com/birdaNFT">Twitter</a> and <a href="https://discord.gg/A5sqZSydJ3">Discord</a></p>
+<p>📫 How to reach me: <a href="https://twitter.com/birdaNFT">Twitter</a> and <a href="https://discord.gg/A5sqZSydJ3">Discord</a></p>
 
 ## Languages That I Know
   
