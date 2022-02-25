@@ -10,10 +10,14 @@
   
   ---
   
-- 🔭 I’m currently working on the SolSeals NFT Ecosystem.
-- 🌱 I’m currently learning Javascript.
-- 💬 Ask me about the NFT project i'm developing for.
-- 📫 How to reach me: [Twitter](https://twitter.com/birdaNFT) and [Discord](https://discord.gg/A5sqZSydJ3)
+🔭
+I’m currently working on the SolSeals NFT Ecosystem.
+🌱
+I’m currently learning Javascript.
+💬
+Ask me about the NFT project i'm developing for.
+📫
+How to reach me: [Twitter](https://twitter.com/birdaNFT) and [Discord](https://discord.gg/A5sqZSydJ3)
 
   
   
