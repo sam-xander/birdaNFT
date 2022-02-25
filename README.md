@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://giphy.com/gifs/seal-hjzuN3nStvFx6" width="480" height="268">
+  
+<img src="https://www.gifbin.com/bin/102013/reverse-1383326929_cute_curious_seal_pup.gif" width="480" height="268">
+  
 # HI, I'M BIRDA
 
 </div>  
