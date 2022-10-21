@@ -8,10 +8,8 @@
 
 <div align="left">
 
-### A Little About Me  
-
-<p>🔭 I’m currently working on the Cypher Web3 project.</p>
-
+### A Little About Me 
+  
 <p>🌱 I’m currently learning HTML, CSS and Javascript.</p>
 
 ### Languages That I Know
