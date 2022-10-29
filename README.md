@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Birda
+# Hey, I'm Sam
 
 </div>  
 
