@@ -1,22 +1,14 @@
-# Hi, I'm Sam!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sam
+===========================================================================================================================
 
-<div>
-  
-### A Little About Me... 
-  
-🌱 I’m currently taking part in a edX front-end development bootcamp.
-  
-🌱 I've worked as a designer for the past couple years and I am now transitioning into a career in front-end development.
-  
-🌱 My two favourite hobbies are climbing and hiking.
-  
-### I Know...
-  
-  <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/96/000000/css3.png"/>
+Front-end Developer
+-------------------
 
-### I'm Learning...
+This year I've transitioned to a career in front-end working with React, Next.js, TypeScript, SASS, Git and Tailwind CSS, etc. I've also used Bootstrap, WordPress, Figma, XD, Photoshop and Illustrator.
 
-  <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="90"/>
-</div>
+*   🌍  I'm based in the UK
+*   ✉️  You can contact me at [sam@samxander.com](mailto:sam@samxander.com )
+*   🚀  I'm currently working on [Cypher Seals](http://cypherseals.io/)
+*   🧠  I'm learning Front-end in an edX Bootcamp
+*   🤝  I'm open to collaborating on open source projects
+*   ⚡  I'm an active climber in my spare time
