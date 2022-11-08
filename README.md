@@ -8,7 +8,6 @@ This year I've transitioned to a career in front-end working with React, Next.js
 
 *   🌍  I'm based in the UK
 *   ✉️  You can contact me at [sam@samxander.com](mailto:sam@samxander.com )
-*   🚀  I'm currently working on [Cypher Seals](http://cypherseals.io/)
 *   🧠  I'm currently learning Front-end on an edX Bootcamp
 *   🤝  I'm open to collaborating on open source projects
 *   ⚡  I'm an active climber in my spare time
