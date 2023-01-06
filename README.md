@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-This year I've transitioned to a career in front-end working with React, Next.js, TypeScript, SASS, Git and Tailwind CSS, etc. I've also used Bootstrap, WordPress, Figma, XD, Photoshop and Illustrator.
+Last year I transitioned to a career in front-end working with React, Next.js, TypeScript, SASS, Git and Tailwind CSS, etc. I've also used Bootstrap, WordPress, Figma, XD, Photoshop and Illustrator.
 
 *   🌍  I'm based in the UK
 *   ✉️  You can contact me at [sam@samxander.com](mailto:sam@samxander.com )
 *   🧠  I'm currently learning Front-end on an edX Bootcamp
 *   🤝  I'm open to collaborating on open source projects
-*   ⚡  I'm an active climber in my spare time
+*   ⚡  I'm an avid climber in my spare time
 
 <h3 align="left">Let's Connect</h3>
 <p align="left">
