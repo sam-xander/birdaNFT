@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-Last year I transitioned to a career in front-end working with React, Next.js, TypeScript, SASS, Git and Tailwind CSS, etc. I've also used Bootstrap, WordPress, Figma, XD, Photoshop and Illustrator.
+Last year I transitioned to a career in front-end development working with HTML, CSS, JavaScript, React, Next.js, TypeScript, SCSS/SASS, Node.js, Jest, Git, Agile, Scrum, Tailwind CSS, Bootstrap, APIs, Open AI etc. I've also used Figma, XD, Photoshop, Illustrator and InDesign in my previous work as a UI/UX and digital designer.
 
 *   🌍  I'm based in the UK
-*   ✉️  You can contact me at [sam@samxander.com](mailto:sam@samxander.com )
-*   🧠  I'm currently learning Front-end on an edX Bootcamp
-*   🤝  I'm open to collaborating on open source projects
-*   ⚡  I'm an avid climber in my spare time
+*   ✉️  You can contact me at [sam@samxander.com](mailto:sam@samxander.com)
+*   🧠  I'm currently learning Front-end on an edX Bootcamp.
+*   🤝  I'm open to collaborating on open source projects.
+*   ⚡  Also, I love climbing in my free time!
 
 <h3 align="left">Let's Connect</h3>
 <p align="left">
@@ -40,7 +40,6 @@ Last year I transitioned to a career in front-end working with React, Next.js, T
     </a>
   	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
   	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
-  	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a>
   	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
