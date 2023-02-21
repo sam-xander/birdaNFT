@@ -49,3 +49,12 @@ Last year I transitioned to a career in front-end development working with HTML,
 	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> </a>
    	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> </a>
 </p>
+
+### My Top Projects
+#### [Places Itinerary Generator](https://places.itinerary.art-media.uk/) - Collaborated on this JavaScript web app using the Chat GPT API by Open AI to enhance the functionality of the Google Places API
+#### [Streaming Platform](https://github.com/sam-xander/streaming-platform) - A video streaming platform was developed using data from TMDB, featuring server-side rendering of movie information in each category and image caching, allowing for a fast and responsive user experience.
+#### [Artist Portfolio](https://github.com/sam-xander/rachel-hancock) - The artist portfolio website created using Next.js presents the artist's work through an interactive gallery, with a clean and responsive design optimized for all devices.
+#### [Web3 Compact Website](https://github.com/sam-xander/cypher-seals) - The compact website for the web3 startup Cypher Seals was created using Next.js, featuring a clean and modern design, concise content, and optimized performance, highlighting the startup's mission and services.
+#### [Social Platform](https://github.com/sam-xander/social-platform) - Social media app using a Firebase database to manage user and post data, with Redux used to manage login states, and allowing dynamic user posts with name, email, profile photo, and message props to be passed to components when logged in.
+#### [IP Location Tracker](https://github.com/sam-xander/ip-location-tracker) - IP address location tracker app built with Vite and React fetches IP location data from ipify.org, displays it on a MapBox map using Leaflet and React-Leaflet, and allows users to search the locations of IP addresses.
+#### [Weather Forecast App](https://github.com/sam-xander/weather-forecast) - Weather forecast app built with JavaScript fetches and presents weather data based on user search, utilizes local storage for data persistence and saves places to history, and relies on Moment.js and the OpenWeather API.
