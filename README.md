@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sam
 ===========================================================================================================================
 
-Front-end Developer
+Digital Designer & Front-end Developer
 -------------------
 
 Last year I transitioned to freelancing in digital design & front-end development working with HTML, CSS, JavaScript, React, Vite, Next.js, TypeScript, SCSS/SASS, Node.js, Jest, Git, Agile, Scrum, Tailwind CSS, Bootstrap, APIs, Open AI etc. I've also used Figma, XD, Photoshop, Illustrator and InDesign in my previous work as a UI/UX and digital designer.
