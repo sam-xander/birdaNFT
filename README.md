@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-Last year I transitioned to a career in front-end development working with HTML, CSS, JavaScript, React, Vite, Next.js, TypeScript, SCSS/SASS, Node.js, Jest, Git, Agile, Scrum, Tailwind CSS, Bootstrap, APIs, Open AI etc. I've also used Figma, XD, Photoshop, Illustrator and InDesign in my previous work as a UI/UX and digital designer.
+Last year I transitioned to freelancing in digital design & front-end development working with HTML, CSS, JavaScript, React, Vite, Next.js, TypeScript, SCSS/SASS, Node.js, Jest, Git, Agile, Scrum, Tailwind CSS, Bootstrap, APIs, Open AI etc. I've also used Figma, XD, Photoshop, Illustrator and InDesign in my previous work as a UI/UX and digital designer.
 
 *   🌍  I'm based in the UK
 *   ✉️  You can contact me at [sam@samxander.com](mailto:sam@samxander.com)
-*   🧠  I'm currently learning Front-end on an edX Bootcamp.
-*   🤝  I'm open to collaborating on open source projects.
+*   🧠  I'm currently learning UX principles.
+*   🤝  I'm open to collaborating on projects.
 *   ⚡  Also, I love climbing in my free time!
 
 <h3 align="left">Let's Connect</h3>
