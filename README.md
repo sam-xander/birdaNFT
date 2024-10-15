@@ -51,9 +51,7 @@ Last year I transitioned to freelancing in digital design & front-end developmen
 </p>
 
 ### My Top Projects
-#### [Playtime Palace Game Search](https://playtime-palace.netlify.app/) - This video game search website enables users to search for games, view details, and access links to purchase from respective stores, with popular genres and categories highlighted, and includes a wishlist feature for users to save and track their favorite games.
-#### [Places Itinerary Generator](https://places.itinerary.art-media.uk/) - Collaborated on this JavaScript web app using the Chat GPT API by Open AI to enhance the functionality of the Google Places API
-#### [Streaming Platform](https://github.com/sam-xander/streaming-platform) - A video streaming platform was developed using data from TMDB, featuring server-side rendering of movie information in each category and image caching, allowing for a fast and responsive user experience.
-#### [Artist Portfolio](https://github.com/sam-xander/rachel-hancock) - The artist portfolio website created using Next.js presents the artist's work through an interactive gallery, with a clean and responsive design optimized for all devices.
-#### [IP Location Tracker](https://github.com/sam-xander/ip-location-tracker) - *TURN OFF AD-BLOCKER* IP address location tracker app built with Vite and React fetches IP location data from ipify.org, displays it on a MapBox map using Leaflet and React-Leaflet, and allows users to search the locations of IP addresses.
+#### [Reliable Plumbing Website](https://github.com/sam-xander/reliable-plumbing) - A Next JS 14 website built to bring in more customers for a small business, with a clear value-add landing page, more information pages and a blog for improved SEO.
+#### [Simple Social Platform](https://github.com/sam-xander/social-platform) - With a sign-in and register page and dynamically added posts, this is a simple but interesting tutorial project learning about connecting a Firebase database and Redux for managing state.
 #### [Weather Forecast App](https://github.com/sam-xander/weather-forecast) - Weather forecast app built with JavaScript fetches and presents weather data based on user search, utilizes local storage for data persistence and saves places to history, and relies on Moment.js and the OpenWeather API.
+#### [JQuery Todo](https://github.com/sam-xander/jquery-todo) - A simple to-do list app built with JQuery.
